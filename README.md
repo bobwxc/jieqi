@@ -2,6 +2,9 @@
 
 [![](https://img.shields.io/badge/jieqi-site-green)](https://bobwxc.github.io/jieqi/)
 
+
+[![](https://img.shields.io/badge/license-Mulan_PSL_v1-blue)](https://license.coscl.org.cn/MulanPSL/)
+
 ## 情况
 
 不断增加中
@@ -20,7 +23,7 @@
 
 ## 样例/Example
 
-![](https://bobwxc.github.io/jieqi/photo/20190520_041107919_iOS.png)
+![](https://bobwxc.github.io/jieqi/photos/20190520_041107919_iOS.png)
 
 
 
