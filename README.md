@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/license-Mulan_PSL_v1-blue)](https://license.coscl.org.cn/MulanPSL/)
 
-## 情况
+## 情况/General
 
 不断增加中
 
@@ -15,7 +15,7 @@
 
 可以直接引用地址，但是我建议不要直接用，图片有点大，样例多半都是加载不出来
 
-## 提交
+## 提交/Push
 
 有手绘的可以直接提交
 
