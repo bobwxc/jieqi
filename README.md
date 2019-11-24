@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/jieqi-githubsite-green)](https://bobwxc.github.io/jieqi/)
 
-[![](https://img.shields.io/badge/jieqi-giteesite-green)](https://bobserver.gitee.io/jieqi/)
+[![](https://img.shields.io/badge/jieqi-giteesite-green)](https://wxcserver.gitee.io/jieqi/)
 
 [![](https://img.shields.io/badge/license-Mulan_PSL_v1-blue)](https://license.coscl.org.cn/MulanPSL/)
 
